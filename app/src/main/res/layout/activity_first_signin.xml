@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_header_selector"
+    tools:context=".FirstSigninActivity">
+
+    <EditText
+        android:id="@+id/firstSignFullName"
+        android:layout_width="299dp"
+        android:layout_height="46dp"
+        android:layout_margin="20dp"
+        android:paddingLeft="20dp"
+        android:background="@drawable/rounded_edittext"
+        android:textColorHint="#9E9E9E"
+        android:textColor="#000000"
+        android:ems="10"
+        android:hint="@string/full_name"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/spinner"
+        app:layout_constraintVertical_bias="0.129" />
+
+    <EditText
+        android:id="@+id/user_address"
+        android:layout_width="299dp"
+        android:layout_height="46dp"
+        android:layout_margin="20dp"
+        android:layout_marginTop="72dp"
+        android:background="@drawable/rounded_edittext"
+        android:ems="10"
+        android:visibility="visible"
+        android:hint="@string/town_and_city_name"
+        android:inputType="textPersonName"
+        android:paddingLeft="20dp"
+        android:textColor="#000000"
+        android:textColorHint="#9E9E9E"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/firstSignFullName" />
+
+    <EditText
+        android:id="@+id/firstSignTel"
+        android:layout_width="299dp"
+        android:layout_height="46dp"
+        android:layout_margin="20dp"
+        android:background="@drawable/rounded_edittext"
+        android:ems="10"
+        android:hint="@string/tel"
+        android:visibility="gone"
+        android:inputType="number"
+        android:paddingLeft="20dp"
+        android:textColor="#000000"
+        android:textColorHint="#9E9E9E"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/user_address"
+        app:layout_constraintVertical_bias="0.014" />
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="299dp"
+        android:layout_height="46dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginHorizontal="@dimen/_20sdp"
+        android:background="#ffffff"
+        android:paddingLeft="20dp"
+        android:spinnerMode="dropdown"
+        android:textColor="#000000"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView3"
+       />
+
+    <Spinner
+        android:id="@+id/specialite_spinner"
+        android:layout_width="299dp"
+        android:layout_height="46dp"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:paddingLeft="20dp"
+        android:spinnerMode="dropdown"
+        android:textColor="#000000"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/spinner"
+        app:layout_constraintVertical_bias="0.163" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_34sdp"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:text="@string/choose_your_role"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+    <Button
+        android:id="@+id/choose_location"
+        android:layout_width="260dp"
+        android:layout_height="46dp"
+        android:background="#22BE87"
+        android:text="@string/choose_location_on_map"
+        android:textColor="#ffffff"
+        android:textAllCaps="false"
+        android:textSize="18sp"
+        android:drawableRight="@drawable/ic_baseline_arrow_forward_24"
+        android:layout_marginTop="@dimen/_20sdp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.479"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/user_address"
+         />
+    <Button
+        android:id="@+id/confirmeBtn"
+        android:layout_width="260dp"
+        android:layout_height="46dp"
+        android:background="@drawable/rounded_edittext"
+        android:text="@string/confirm"
+        android:textColor="@color/red"
+        android:textSize="18sp"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.479"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/choose_location"
+        app:layout_constraintVertical_bias="0.349" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

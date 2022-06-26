@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Marham/AppData/Local/Android/Sdk/platforms/android-30/data/res/layout/simple_spinner_dropdown_item.xml" value="0.1765625" />
+        <entry key="..\:/Users/Marham/AppData/Local/Android/Sdk/platforms/android-30/data/res/layout/simple_spinner_item.xml" value="0.1765625" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/drawable/button_green.xml" value="0.15185185185185185" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/drawable/button_home.xml" value="0.15185185185185185" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/drawable/button_radius_accent_color.xml" value="0.15185185185185185" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/drawable/ic_local_hospital_black_24dp.xml" value="0.10740740740740741" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/drawable/main_header_selector.xml" value="0.17777777777777778" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/activity_admin_home.xml" value="0.1921875" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/activity_appointement.xml" value="0.1765625" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/activity_chat.xml" value="0.16" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/activity_confirmed_appointements.xml" value="0.1921875" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/activity_disease_report.xml" value="0.1765625" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/activity_doctor_appointement.xml" value="0.1921875" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/activity_doctor_home.xml" value="0.1921875" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/activity_dossier_medical.xml" value="0.1574074074074074" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/activity_edit_profile_doctor.xml" value="0.1765625" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/activity_edit_profile_patient.xml" value="0.1765625" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/activity_fiche.xml" value="0.1574074074074074" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/activity_fiche_info.xml" value="0.12916666666666668" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/activity_first_signin.xml" value="0.17" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/activity_home.xml" value="0.17037037037037037" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/activity_images.xml" value="0.1765625" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/activity_main.xml" value="0.17037037037037037" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/activity_map_location.xml" value="0.1546875" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/activity_my_calendar_doctor.xml" value="0.1765625" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/activity_my_doctors.xml" value="0.1921875" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/activity_my_patient_admin.xml" value="0.10833333333333334" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/activity_my_patients.xml" value="0.1765625" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/activity_my_services.xml" value="0.15572916666666667" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/activity_near_by.xml" value="0.1765625" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/activity_near_by_barbars.xml" value="0.1765625" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/activity_near_by_list.xml" value="0.1921875" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/activity_near_by_test.xml" value="0.1765625" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/activity_patient_appointments.xml" value="0.11458333333333333" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/activity_patient_request_page.xml" value="0.1765625" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/activity_profile_admin.xml" value="0.1765625" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/activity_profile_doctor.xml" value="0.1574074074074074" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/activity_profile_info.xml" value="0.1765625" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/activity_search_pat.xml" value="0.1921875" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/activity_show_all_doctors.xml" value="0.1921875" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/activity_show_patients.xml" value="0.1765625" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/activity_show_salon_on_map.xml" value="0.1921875" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/activity_symptom_details.xml" value="0.1765625" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/activity_symptom_type.xml" value="0.1765625" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/activity_test.xml" value="0.14739583333333334" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/activity_upload_report.xml" value="0.1765625" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/confirmed_appointements_item.xml" value="0.1921875" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/consultation_item.xml" value="0.1765625" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/doctor_appointement_item.xml" value="0.15" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/doctor_item.xml" value="0.1921875" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/doctor_item_admin.xml" value="0.1921875" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/fragment_booking_step3.xml" value="0.2" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/fragment_booking_step_one.xml" value="0.1921875" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/fragment_booking_step_two.xml" value="0.1765625" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/fragment_consultation.xml" value="0.12916666666666668" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/fragment_saloon_booking_step1.xml" value="0.1921875" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/fragment_saloon_booking_step2.xml" value="0.1921875" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/layout_time_slot.xml" value="0.1765625" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/my_doctor_item.xml" value="0.1765625" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/my_patient_item.xml" value="0.1765625" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/near_by_salon.xml" value="0.1765625" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/near_by_salon_item.xml" value="0.1921875" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/no_record_found.xml" value="0.1921875" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/notification.xml" value="0.1" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/pat_request_item.xml" value="0.1765625" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/patient_appointments_item.xml" value="0.16" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/service_input_dialog.xml" value="0.1921875" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/layout/service_item.xml" value="0.1484375" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/menu/navigation_bar.xml" value="0.10555555555555556" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/menu/near_by_salon_bar.xml" value="0.14791666666666667" />
+        <entry key="..\:/Users/Marham/Downloads/Health_Care_App-master/Health_Care_App-master/Health_Care_App-master/app/src/main/res/menu/top_app_bar.xml" value="0.14791666666666667" />
+        <entry key="..\:/Users/Marham/Downloads/e-barber/e-barber/e-barber/app/src/main/res/drawable/button_radius_accent_color.xml" value="0.18020833333333333" />
+        <entry key="..\:/Users/Marham/Downloads/e-barber/e-barber/e-barber/app/src/main/res/drawable/rounded_dialog.xml" value="0.17685185185185184" />
+        <entry key="..\:/Users/Marham/Downloads/e-barber/e-barber/e-barber/app/src/main/res/layout/activity_booking_dashboard.xml" value="0.1640625" />
+        <entry key="..\:/Users/Marham/Downloads/e-barber/e-barber/e-barber/app/src/main/res/layout/activity_cart.xml" value="0.1921875" />
+        <entry key="..\:/Users/Marham/Downloads/e-barber/e-barber/e-barber/app/src/main/res/layout/activity_confirm_order.xml" value="0.1921875" />
+        <entry key="..\:/Users/Marham/Downloads/e-barber/e-barber/e-barber/app/src/main/res/layout/activity_edit_profile_doctor.xml" value="0.1765625" />
+        <entry key="..\:/Users/Marham/Downloads/e-barber/e-barber/e-barber/app/src/main/res/layout/activity_first_signin.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Marham/Downloads/e-barber/e-barber/e-barber/app/src/main/res/layout/activity_home.xml" value="0.1921875" />
+        <entry key="..\:/Users/Marham/Downloads/e-barber/e-barber/e-barber/app/src/main/res/layout/activity_images.xml" value="0.1921875" />
+        <entry key="..\:/Users/Marham/Downloads/e-barber/e-barber/e-barber/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Marham/Downloads/e-barber/e-barber/e-barber/app/src/main/res/layout/activity_my_doctors.xml" value="0.1921875" />
+        <entry key="..\:/Users/Marham/Downloads/e-barber/e-barber/e-barber/app/src/main/res/layout/activity_my_services.xml" value="0.1921875" />
+        <entry key="..\:/Users/Marham/Downloads/e-barber/e-barber/e-barber/app/src/main/res/layout/activity_profile_doctor.xml" value="0.18" />
+        <entry key="..\:/Users/Marham/Downloads/e-barber/e-barber/e-barber/app/src/main/res/layout/activity_search_pat.xml" value="0.1921875" />
+        <entry key="..\:/Users/Marham/Downloads/e-barber/e-barber/e-barber/app/src/main/res/layout/activity_social_login.xml" value="0.1" />
+        <entry key="..\:/Users/Marham/Downloads/e-barber/e-barber/e-barber/app/src/main/res/layout/activity_test.xml" value="0.1921875" />
+        <entry key="..\:/Users/Marham/Downloads/e-barber/e-barber/e-barber/app/src/main/res/layout/barber_item.xml" value="0.1921875" />
+        <entry key="..\:/Users/Marham/Downloads/e-barber/e-barber/e-barber/app/src/main/res/layout/barber_service_item.xml" value="0.18" />
+        <entry key="..\:/Users/Marham/Downloads/e-barber/e-barber/e-barber/app/src/main/res/layout/confirmed_appointements_item.xml" value="0.1921875" />
+        <entry key="..\:/Users/Marham/Downloads/e-barber/e-barber/e-barber/app/src/main/res/layout/fragment_booking_step3.xml" value="0.2" />
+        <entry key="..\:/Users/Marham/Downloads/e-barber/e-barber/e-barber/app/src/main/res/layout/fragment_booking_step_two.xml" value="0.13796296296296295" />
+        <entry key="..\:/Users/Marham/Downloads/e-barber/e-barber/e-barber/app/src/main/res/layout/service_item.xml" value="0.1765625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

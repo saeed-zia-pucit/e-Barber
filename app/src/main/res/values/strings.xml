@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">e-Barber</string>
+
+    <string-array name="blood_spinner">
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </string-array>
+
+    <string name="database_url" translatable="false">https://health-care-b9ce9.firebaseio.com</string>
+
+    <string name="map_key" translatable="false">AIzaSyBdYy_qj-Mlfxd5zBGkm7guAoXB_tdEvQ8</string>
+    <string name="welcome_admin">Welcome Admin</string>
+    <string name="choose_an_option">Choose an option</string>
+    <string name="show_barbers">Show Barbers</string>
+    <string name="my_profile">My Profile</string>
+    <string name="change_language_to_english">Change Language to English</string>
+    <string name="change_language_to_greek">Change Language to Greek</string>
+
+    <string name="sign_out">Sign Out</string>
+    <string name="confirmed_appointments">Confirmed Appointments</string>
+    <string name="appointments_requests">Appointments Requests</string>
+    <string name="signout">SignOut</string>
+    <string name="requests">Requests</string>
+    <string name="confirmed">Confirmed</string>
+    <string name="my_services">My Services</string>
+    <string name="profile">Profile</string>
+    <string name="welcome">Welcome</string>
+    <string name="you_are_logged_in_as_salon_services_provider">You are logged in as Salon Services Provider</string>
+    <string name="update_profile">UPDATE PROFILE</string>
+    <string name="enter_your_address">Enter your address</string>
+    <string name="enter_your_phone">Enter your phone</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="edit_my_profile">Edit My Profile</string>
+    <string name="full_name">Full Name</string>
+    <string name="town_and_city_name">Town and City Name</string>
+    <string name="tel">Tel</string>
+    <string name="choose_your_role">Choose your role</string>
+    <string name="choose_location_on_map">Choose Location on Map</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="welcome_user">Welcome User</string>
+    <string name="find_near_by_salon">Find Near by Salon</string>
+    <string name="view_available_salons">View Available Salons</string>
+    <string name="my_appointment">My Appointment</string>
+
+    <string name="confirm_password">Confirm password</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="book_appointment">Book Appointment</string>
+    <string name="select_this_location">Select This Location</string>
+    <string name="my_calendar">My Calendar</string>
+
+    <string name="add_new_service">Add New Service</string>
+    <string name="my_appointments">My Appointments</string>
+    <string name="about">About</string>
+    <string name="previous">previous</string>
+    <string name="next">Next</string>
+    <string name="thank_you_for_choosing_our_service">Thank you for choosing our service !</string>
+    <string name="appointment_information">Appointment information</string>
+    <string name="no_record_found">No Record Found</string>
+    <string name="service_name">Service Name</string>
+    <string name="service_price">Service Price</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm_this">Confirm this hour</string>
+    <string name="already_chosen">Already chosen</string>
+    <string name="your_name">Your Name</string>
+    <string name="back_to_login">Back to login</string>
+
+    <string name="avaiable_services">Available Services</string>
+    <string name="add_new_services">Add New Service</string>
+    <string name="avaiable_salons">Available Salons</string>
+    <string name="barber_list">Barbers list</string>
+    <string name="time_and_date">Tme and Date</string>
+    <string name="appointment_details">Appointment Details</string>
+    <string name="login">Login</string>
+    <string name="my_patients" translatable="false">My Patients</string>
+    <string name="near_by_salons">Near By Salons</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="save">Save</string>
+    <string name="show_on_map">Show On Map</string>
+    <string name="book">Book</string>
+
+    <!--facebook-->
+    <string name="facebook_app_id" translatable="false">your_facebook_app_id</string>
+    <string name="fb_login_protocol_scheme" translatable="false">your_facebook_login_protocol_schema</string>
+
+    <!--twitter-->
+    <string name="twitter_CONSUMER_KEY" translatable="false">your_twitter_consumer_key</string>
+    <string name="twitter_CONSUMER_SECRET" translatable="false">your_twitter_consumer_secret</string>
+
+    <!--snapChat-->
+    <string name="snap_chat_client_id" translatable="false">snap_chat_client_id</string>
+    <string name="snap_chat_redirect_url" translatable="false">snap_chat_redirect_url</string>
+
+    <!-- Enter the parts of your redirect url below
+         e.g., if your redirect url is myapp://snap-kit/oauth2
+    !-->
+    <string name="snap_chat_host_value" translatable="false">snap-kit</string>
+    <string name="snap_chat_path_value" translatable="false">/oauth2</string>
+    <string name="snap_chat_scheme_value" translatable="false">myapp</string>
+
+
+</resources>
+

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_admin">Καλώς όρισες Admin</string>
+    <string name="choose_an_option">Διάλεξε μια επιλογή</string>
+    <string name="app_name">e-Barber</string>
+    <string name="show_barbers">Εμφάνιση καταστημάτων</string>
+    <string name="my_profile">Το προφίλ μου</string>
+    <string name="sign_out">Αποσύνδεση</string>
+    <string name="confirmed_appointments">Επιβεβαιωμένα Ραντεβού</string>
+    <string name="appointments_requests">Αιτήματα Ραντεβού</string>
+    <string name="signout">Αποσύνδεση</string>
+    <string name="requests">Αιτήματα</string>
+    <string name="confirmed">Επιβεβαιωμένα</string>
+    <string name="change_language_to_english">Αλλαγή γλώσσας σε Αγγλικά</string>
+    <string name="change_language_to_greek">Αλλαγή γλώσσας σε ελληνικά</string>
+
+    <string name="my_services">Οι Υπηρεσίες μου</string>
+    <string name="profile">Προφίλ</string>
+    <string name="welcome">Καλωσήρθες</string>
+    <string name="you_are_logged_in_as_salon_services_provider">Είσαι συνδεδεμένος ως
+Κατάστημα</string>
+    <string name="update_profile">Ενημέρωση Προφίλ</string>
+    <string name="enter_your_address">Η διεύθυνσή σου</string>
+    <string name="enter_your_phone">Το τηλέφωνο σου</string>
+    <string name="enter_your_name">Το όνομα σου</string>
+    <string name="edit_my_profile">Επεξεργασία Προφίλ</string>
+    <string name="full_name">Όνομα</string>
+    <string name="town_and_city_name">Περιοχή και Πόλη</string>
+    <string name="tel">Τηλ.</string>
+    <string name="choose_your_role">Χρήστης ή Κατάστημα</string>
+    <string name="choose_location_on_map">Βρες τη Διεύθυνση σου στον Χάρτη</string>
+    <string name="confirm">Επιβεβαίωση</string>
+    <string name="welcome_user">Καλωσήρθες!</string>
+    <string name="find_near_by_salon">Κοντινά Καταστήματα</string>
+    <string name="view_available_salons">Διαθέσιμα καταστήματα</string>
+    <string name="my_appointment">Τα ραντεβού μου</string>
+    <string name="confirm_password">Επιβεβαίωση Κωδικού</string>
+    <string name="sign_up">Εγγραφή</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">Δημιουργία Λογαριασμού</string>
+    <string name="book_appointment">Κλείσε Ραντεβού</string>
+    <string name="select_this_location">Επέλεξε αυτή τη διεύθυνση</string>
+    <string name="my_calendar">Το Ημερολόγιο μου</string>
+    <string name="add_new_service">Πρόσθεση Νέας Υπηρεσίας</string>
+    <string name="my_appointments">Τα ραντεβού μου</string>
+    <string name="about">Σχετικά</string>
+    <string name="previous">Προηγούμενο</string>
+    <string name="next">Επόμενο</string>
+    <string name="thank_you_for_choosing_our_service">Σε ευχαριστούμε πολύ!</string>
+    <string name="appointment_information">Πληροφορίες Ραντεβού</string>
+    <string name="no_record_found">Δε βρέθηκε κάτι :(</string>
+    <string name="service_name">Όνομα Υπηρεσίας</string>
+    <string name="service_price">Τιμή Υπηρεσίας</string>
+    <string name="cancel">Ακύρωση</string>
+    <string name="confirm_this">Επιβεβαίωση</string>
+    <string name="already_chosen">Το έχεις ήδη επιλέξει!</string>
+    <string name="your_name">Το όνομα σου</string>
+    <string name="back_to_login">Πίσω στην Σύνδεση</string>
+    <string name="avaiable_services">Διαθέσιμες Υπηρεσίες</string>
+    <string name="add_new_services">Πρόσθεση Νέας Υπηρεσίας</string>
+    <string name="avaiable_salons">Διαθέσιμα Καταστήματα</string>
+    <string name="barber_list">Λίστα Καταστημάτων</string>
+    <string name="time_and_date">Ώρα και Ημερομηνία</string>
+    <string name="appointment_details">Λεπτομέρειες Ραντεβού</string>
+    <string name="login">Σύνδεση</string>
+
+    <string name="near_by_salons">Κοντά στα σαλόνια</string>
+    <string name="delete">Διαγράφω</string>
+    <string name="update">Εκσυγχρονίζω</string>
+    <string name="save">Σώσει</string>
+    <string name="show_on_map">Εμφάνιση στο χάρτη</string>
+    <string name="book">Βιβλίο</string>
+
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1017441107212",
+    "project_id": "e-barber-f6e04",
+    "storage_bucket": "e-barber-f6e04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017441107212:android:9bf7818442c01014999d29",
+        "android_client_info": {
+          "package_name": "com.ensias.ebarber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017441107212-8rhglal7qn5k2hu6jhljepm0ttmgpb5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdqWXYNoTYXUZWpI98ugOgBkY-H0wPdqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017441107212-8rhglal7qn5k2hu6jhljepm0ttmgpb5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

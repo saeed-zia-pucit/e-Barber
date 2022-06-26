@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ensias.ebarber">
+
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <application
+        android:name=".Common.MainApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/scissors"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/scissors"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+        <activity
+            android:name=".bookingDashboard.ConfirmOrderActivity"
+            android:exported="false" />
+        <activity
+            android:name=".bookingDashboard.TimeSlotActivity"
+            android:exported="false" />
+        <activity
+            android:name=".bookingDashboard.CartActivity"
+            android:exported="false" />
+        <activity
+            android:name=".bookingDashboard.BookingDashboard"
+            android:exported="false" />
+        <activity
+            android:name=".nearbyactivities.ShowSalonOnMapActivity"
+            android:exported="false"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name=".nearbyactivities.NearByListActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MyServicesActivity"
+            android:exported="false"
+            android:theme="@style/MyMaterialTheme" />
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/map_key" />
+
+        <activity
+            android:name=".nearbyactivities.MapLocationActivity"
+            android:exported="false"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name=".nearbyactivities.NearByTestActivity"
+            android:exported="false" />
+        <activity
+            android:name=".nearbyactivities.NearBy"
+            android:exported="false" />
+        <activity android:name=".UploadReport" />
+        <activity android:name=".ProfileAdminActivity" />
+        <activity android:name=".SymptomDetailsActivity" />
+        <activity android:name=".SymptomTypeActivity" />
+        <activity
+            android:name=".DiseaseReportActivity"
+            android:theme="@style/MyMaterialTheme" />
+        <activity android:name=".ImagesActivity" />
+        <activity
+            android:name=".SocialLogin"
+            android:exported="true" />
+        <activity android:name=".ViewReports" />
+        <activity android:name=".ShowPatients" />
+        <activity android:name=".MyPatientActivityAdmin" />
+        <activity android:name=".ShowAllDoctors" />
+        <activity android:name=".AdminHomeActivity" />
+        <activity android:name=".MyCalendarDoctorActivity" />
+        <activity android:name=".TestActivity" />
+        <activity android:name=".AppointementActivity" />
+        <activity android:name=".FicheInfo" />
+        <activity android:name=".PatientInfoActivity" />
+        <activity android:name=".DossierMedical" />
+        <activity android:name=".ChatActivity" />
+        <activity android:name=".PatientRequestPage" />
+        <activity android:name=".DoctorHomeActivity" />
+        <activity android:name=".EditProfileDoctorActivity" />
+        <activity android:name=".ConfirmedAppointmensActivity" />
+        <activity android:name=".PatientAppointementsActivity" />
+        <activity android:name=".ProfilePatientActivity" />
+        <activity android:name=".MyDoctorsAvtivity" />
+        <activity android:name=".ProfileDoctorActivity" />
+        <activity android:name=".EditProfilePatientActivity" />
+        <activity android:name=".DoctorAppointementActivity" />
+        <activity android:name=".FicheActivity" />
+        <activity android:name=".MyPatientsActivity" />
+        <activity android:name=".SearchPatActivity" />
+        <activity android:name=".FirstSigninActivity" />
+        <activity android:name=".HomeActivity" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <service
+            android:name=".firebasePushNotification.MyFirebaseMessagingService"
+            android:exported="false"
+            android:stopWithTask="false">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+    </application>
+
+</manifest>
