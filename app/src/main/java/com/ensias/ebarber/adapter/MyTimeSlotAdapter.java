@@ -111,7 +111,8 @@ public class MyTimeSlotAdapter extends RecyclerView.Adapter<MyTimeSlotAdapter.My
                     intent.putExtra(Common.KEY_STEP,2);
                     Log.e("pos ", "onItemSelectedListener: "+position );
                     localBroadcastManager.sendBroadcast(intent);
-                    if(Common.CurrentUserType == "doctor" && holder.txt_time_slot_description.getText().equals("Available")){
+//                    Common.CurrentUserType == "doctor" &&
+                    if( holder.txt_time_slot_description.getText().equals("Available")){
                         AlertDialog.Builder alert = new AlertDialog.Builder(holder.card_time_slot.getContext());
                         alert.setTitle("Booking");
                         alert.setMessage("Are you sure you want to book?");

@@ -82,7 +82,11 @@ public class TimeSlotActivity extends AppCompatActivity implements ITimeSlotLoad
             @Override
             public void onClick(View v) {
                 //Common.cartItems.add(new CartItem(Common.Curre))
-                startActivity(new Intent(TimeSlotActivity.this,ConfirmOrderActivity.class));
+                if (Common.currentTimeSlot != -1) {
+                    startActivity(new Intent(TimeSlotActivity.this, ConfirmOrderActivity.class));
+                }else {
+                    Toast.makeText(TimeSlotActivity.this, "Please select Available TimeSlot", Toast.LENGTH_LONG).show();
+                }
             }
         });
         viewCart.setOnClickListener(new View.OnClickListener() {
@@ -93,15 +97,7 @@ public class TimeSlotActivity extends AppCompatActivity implements ITimeSlotLoad
         });
 
     }
-    BroadcastReceiver displayTimeSlot = new BroadcastReceiver() {
-        @Override
-        public void onReceive(Context context, Intent intent) {
-            Calendar date = Calendar.getInstance();
-            date.add(Calendar.DATE,0);
-            loadAvailabelTimeSlotOfDoctor(Common.CurreentDoctor,simpleDateFormat.format(date.getTime()));
 
-        }
-    };
 
     private void loadAvailabelTimeSlotOfDoctor(String doctorId, final String bookDate) {
       //  dialog.show();
@@ -228,7 +224,8 @@ public class TimeSlotActivity extends AppCompatActivity implements ITimeSlotLoad
     }
 
 
-
+appointment is not getting book,
+    first test and analyze
     void confirmeApointement() {
         ApointementInformation apointementInformation = new ApointementInformation();
         apointementInformation.setApointementType(Common.Currentaappointementatype);
